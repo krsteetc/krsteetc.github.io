@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fict.chesspuzzle.envinteg",
+    "sha256_cert_fingerprints":
+    ["4D:4D:6F:F3:95:9C:AB:67:5F:DD:63:D2:C1:C6:70:38:C4:9F:04:9D:8A:8C:D7:A8:1D:24:A5:73:1F:90:DF:F5"]
+  }
+}]
