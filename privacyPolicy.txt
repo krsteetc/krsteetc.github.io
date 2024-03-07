@@ -1,0 +1,41 @@
+Privacy Policy for Chess Puzzles
+
+Last updated: 2024-03-08
+
+1. Overview
+
+This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our app.
+
+By using Chess Puzzles, you agree to the collection and use of information in accordance with this policy.
+
+2. Information Collection and Use
+
+We do not collect any personal information beyond what is necessary for the authentication process.
+
+Types of Data Collected:
+
+Email Address:
+When you use our app, we collect your email address solely for the purpose of authentication via Firebase.
+3. Use of Data
+
+We use the collected data only for the purpose of authenticating users and providing access to our app's features.
+
+4. Data Retention
+
+We do not store any additional user data beyond the email address used for authentication. The email address is securely handled by Firebase for authentication purposes.
+
+5. Third-Party Services
+
+Our app uses Firebase Authentication services provided by Google. Please refer to Google's Privacy Policy for more information about how Google handles user data.
+
+6. Security
+
+We take appropriate measures to ensure the security of the information collected during the authentication process. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure.
+
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+8. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at krsteetc@gmail.com.
