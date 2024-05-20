@@ -1,0 +1,24 @@
+    {
+      "createdAt": 1709669063627,
+      "creatorAvatarUrl": "",
+      "creatorFullName": "Chess MK",
+      "creatorUserId": "XKD0OR6MllXBrH9ceYoqMNYNfZH2",
+      "creatorUsername": "chessMK",
+      "genericErrorDescription": {
+        "translations": {}
+      },
+      "initFen": "r4rk1/1pp2p1p/p1nbq1p1/3p1N2/4pPP1/1P2P2P/PBPP4/2KR1BQ1 w - - 0 ",
+      "initHintOrDescription": {
+        "translations": {}
+      },
+      "initLitSquares": "",
+      "name": {
+        "translations": {}
+      },
+      "puzzleId": "d54a518d-6d47-4dad-86c1-2bd246385d90",
+      "solutionConfig": "{\u0027f5-h6\u0027: {\u0027type\u0027: \u0027DONE\u0027, \u0027nextHint\u0027: {\"translations\":{}}, \u0027continueWith\u0027: \u0027-\u0027, \u0027litConfig\u0027: \u0027\u0027 }}",
+      "status": "APPROVED",
+      "type": "TutorialDetailsPuzzleTypeModel",
+      "updatedAt": 1709669063375,
+      "whitePerspective": true
+    }
